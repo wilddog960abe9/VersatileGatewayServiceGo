@@ -1,0 +1,2 @@
+# VersatileGatewayServiceGo
+Python script
